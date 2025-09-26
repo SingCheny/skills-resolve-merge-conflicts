@@ -7,3 +7,6 @@ These are my personal references for the resume.
 
 Notes:
 This references.md was added on the my-resume branch to create a conflict with main.
+
+Additional note from main branch:
+- octocat 1 😈
